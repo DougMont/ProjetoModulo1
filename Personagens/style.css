@@ -1,0 +1,36 @@
+body {
+    background: #ffffff;
+}
+
+#banner {
+    width: 110%;
+    height: 200%;
+    background:url(./personagensFoto.jpg);
+}
+
+ul li{
+    display: inline-block;
+    padding: 35px;
+        
+}
+
+.lolzin1{
+    color: #1eff00;
+    font-size: 30px;
+    margin-left: 210px;
+}   
+
+.lolzin2{
+    color: #1eff00;
+    font-size: 30px;
+    margin-left: 345px;
+    margin-right: 1px;
+}
+
+.lolzin3{
+    color: #1eff00;
+    font-size: 30px;
+    margin-left: 225px;
+    margin-right: 0px;
+    
+}

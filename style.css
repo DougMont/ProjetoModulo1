@@ -1,0 +1,77 @@
+body {
+    background-image: url(./papai1.jpg);
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    
+}
+
+.principal {
+   
+     position: absolute;
+     text-align: center;
+     top: 100px;
+     width: 100%;
+     line-height: 30px;
+     height: 30px;
+    font-size: 20px;
+}
+
+.titulo-principal{
+    padding-left: 20px;
+    
+}
+
+h2 {
+    font-size: 36px;
+    padding: 5%;
+}
+
+.titulo-centralizado {
+    text-align: center;
+    margin-top: 36%;
+    font-size: 100px;
+    padding: 5%;
+}
+
+p {
+    text-align: center;
+    padding: 4px;
+}
+
+#missao {
+    font-size: 50px;
+}
+
+
+.itens {
+    font-style: italic;
+}
+
+
+.benficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+ul {
+    display: inline;
+    text-align: center;
+    vertical-align: top;
+    width: 30%;
+    margin-right: 15%;
+    font-size: 25px;
+}
+
+.comeca {
+    width: 220px;
+    margin-left: 15%;
+    font-size: 50px;
+    text-decoration: overline;
+    
+}
+
+footer {
+    text-align: center;
+    padding: 40px 0;
+}
