@@ -50,22 +50,3 @@ p {
     display: inline;
     margin-left: 900px;
 }
-
-ul {
-    display: inline;
-    text-align: center;
-    vertical-align: top;
-    width: 30%;
-    margin-right: 15%;
-    font-size: 25px;
-}
-
-.itens {
-    display: inline;
-    margin-left: 850px;
-    font-style: italic;
-    color: #000000;
-    font-size: 60px;
-    
-    
-}
